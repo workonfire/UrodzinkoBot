@@ -1,0 +1,3 @@
+<?php
+die("UrodzinkoBot ".$version." by Buty935\n\nNie zapominajmy o najbliższych w dniu ich urodzin! Jest to bot służący do przypominania o czyichś urodzinach :)\n\Wystarczy podać czyjeś imię oraz datę urodzin, by bot wysłał do Ciebie odpowiednie powiadomienie w wyznaczonym terminie lub dzień przed.\n\nUwaga! Szanujemy Twoją prywatność. Więcej pod /privacy\n\nJak włączyć powiadomienie? Użyj komendy /birth.\n\nKontakt z administratorem: /version");
+?>
